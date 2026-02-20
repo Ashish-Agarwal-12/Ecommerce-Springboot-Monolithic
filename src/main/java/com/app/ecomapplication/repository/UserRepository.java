@@ -1,6 +1,6 @@
 package com.app.ecomapplication.repository;
 
-import com.app.ecomapplication.entity.User;
+import com.app.ecomapplication.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
